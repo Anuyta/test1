@@ -8,7 +8,7 @@ namespace FluentBuilder
 {
     public interface IPageBuilder
     {
-        IPageBuilder BuildHeader(string header);
+        IPageBuilder BuildHeader(string headers);
 
         IPageBuilder BuildMenu(string menu);
 

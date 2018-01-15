@@ -1,0 +1,5 @@
+D:\Rabtsava\Patterns\CreationalPatterns\FluentBuilder\bin\Debug\FluentBuilder.exe.config
+D:\Rabtsava\Patterns\CreationalPatterns\FluentBuilder\bin\Debug\FluentBuilder.exe
+D:\Rabtsava\Patterns\CreationalPatterns\FluentBuilder\bin\Debug\FluentBuilder.pdb
+D:\Rabtsava\Patterns\CreationalPatterns\FluentBuilder\obj\Debug\FluentBuilder.exe
+D:\Rabtsava\Patterns\CreationalPatterns\FluentBuilder\obj\Debug\FluentBuilder.pdb

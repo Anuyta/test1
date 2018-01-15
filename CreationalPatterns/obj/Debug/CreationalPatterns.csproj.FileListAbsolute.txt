@@ -1,0 +1,6 @@
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe.config
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.pdb
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.csprojResolveAssemblyReference.cache
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.exe
+D:\Rabtsava\Patterns\CreationalPatterns\CreationalPatterns\obj\Debug\CreationalPatterns.pdb
